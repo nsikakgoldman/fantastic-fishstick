@@ -1,7 +1,7 @@
 <p>I trying to build a console task tracker application 
 that will accurately track a worker activity
- on the machine and as well calculate clocking time</p>
-corrently with any gitch
+ on the machine and as well calculate clocking time corrently without any gitch</p>
+
 
 ###
 
